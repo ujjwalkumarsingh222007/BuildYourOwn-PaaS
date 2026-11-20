@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 > **From Code to Cloud. Without the Complexity.**  
-> An automated, developer-first Platform-as-a-Service (PaaS) engine that transforms GitHub repositories or ZIP archives into containerized, Kubernetes-orchestrated applications synced to AWS Cloud.
+> An automated, developer-first Platform-as-a.-Service (PaaS) engine that transforms GitHub repositories or ZIP archives into containerized, Kubernetes-orchestrated applications synced to AWS Cloud.
 
 ---
 
